@@ -1,4 +1,4 @@
-# Thinkpad T450s Catalina
+# Thinkpad T450 Catalina
 
 ## Notice: If you need to edit config.plist, don't use OpenCore configurator, use PlistEdit pro or Xcode instead.
 
